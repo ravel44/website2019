@@ -1,2 +1,6 @@
 # website2019
-New Website
+Coded my new website from scratch using Node. Enjoy!
+
+https://pascalguyon.org/ 
+
+
